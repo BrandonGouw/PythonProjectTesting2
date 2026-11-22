@@ -1,0 +1,6 @@
+streamlit>=1.38.0
+fastai==2.7.19
+torch>=2.2.0,<2.6.0
+torchvision>=0.17.0,<0.21.0
+pillow>=10.0.0
+numpy<2.0.0
